@@ -1,0 +1,8 @@
+-oeux
+-lait
+-sel
+-sucre
+-beurre
+-farine
+
+
